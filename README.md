@@ -30,7 +30,7 @@ A simple RESTful API with CRUD operations for managing users, built using **Node
 
 4. **Start the server:**
    ```sh
-   npm start
+   node app.js
    ```
    The app will run at `http://localhost:3000`
 
