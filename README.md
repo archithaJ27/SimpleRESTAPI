@@ -98,6 +98,4 @@ A simple RESTful API with CRUD operations for managing users, built using **Node
 - `GET /users/new` → Displays user creation form
 - `GET /users/edit/:id` → Displays user edit form
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
